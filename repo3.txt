@@ -1,2 +1,6 @@
 Fichero repo3
+
 linea nueva repo3 conflicto
+=======
+modificacion conflicto
+
